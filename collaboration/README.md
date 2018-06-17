@@ -1,5 +1,5 @@
 # collaboration
 
 Files and folder used for collaboration with team.
-Put everything.
+Put everything in this folder.
 
