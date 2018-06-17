@@ -1,3 +1,3 @@
 # collaboration
 
-Files and folder used for collaboration.
+Files and folder used for collaboration with team.
